@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class TextJustification {
+public class TextJustify{
     public static List<String> fullJustify(String[] words, int maxWidth) {
         List<String> result = new ArrayList<>();
         int n = words.length;

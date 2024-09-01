@@ -1,4 +1,4 @@
-public class WordEncryption {
+public class Encryption {
 
     public static String encryptString(String input1, int input2) {
         StringBuilder encryptedWord = new StringBuilder();

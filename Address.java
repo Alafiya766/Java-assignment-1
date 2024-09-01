@@ -75,7 +75,7 @@ class AddressBook {
 }
 
 // Main class with menu-driven interface
-public class AddressBookApplication {
+public class Address {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         AddressBook addressBook = new AddressBook();
